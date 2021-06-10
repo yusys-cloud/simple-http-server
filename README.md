@@ -4,12 +4,6 @@ a simple http server.
 
 ## Quick Start
 
-Binary Download
-
-https://github.com/yusys-cloud/simple-http-server/releases 
-
-## Usage
-
 ``` 
 ./simple-http-server [-d DIRECTORY] [-p PORT]
 ```
@@ -39,4 +33,8 @@ Serve from port 1234:
 
 ```
 
+## Benchmarks
+| Benchmark name                 |       (1) |
+| ------------------------------ | --------- | 
+| Benchmark_mac_ping             | 1012/sec  |
 
